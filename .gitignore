@@ -1,0 +1,16 @@
+/schematics/
+/backup/
+/crash-reports/
+/downloads/
+/fancymenu_data/
+/journeymap/
+/local/
+/logs/
+/resourcepacks/
+/saves/
+/schematics/
+/shaderpacks/
+/xaero/
+usercache.json
+usernamecache.json
+WaypointData.dat
