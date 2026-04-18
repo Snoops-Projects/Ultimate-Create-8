@@ -47,3 +47,4 @@ fancymenu_data/
 *.cache
 *.dat_old
 WaypointData.dat
+config/iris.properties
