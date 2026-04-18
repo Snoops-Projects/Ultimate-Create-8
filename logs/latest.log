@@ -1,0 +1,1012 @@
+[11:12:05] [main/INFO]: ModLauncher running: args [--username, Snoopypupser, --version, 1.21.1, --gameDir, C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8, --assetsDir, C:\Users\broec\AppData\Roaming\ModrinthApp\meta\assets, --assetIndex, 17, --uuid, 61693b76d918451993f3195d7da0c4c6, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480, --fml.neoForgeVersion, 21.1.225, --fml.fmlVersion, 4.0.42, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430, --launchTarget, forgeclient]
+[11:12:05] [main/INFO]: JVM identified as Azul Systems, Inc. OpenJDK 64-Bit Server VM 21.0.6+7-LTS
+[11:12:05] [main/INFO]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.6 by Azul Systems, Inc.; OS Windows 11 arch amd64 version 10.0
+[11:12:05] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[11:12:05] [main/INFO]: Trying GL version 4.6
+[11:12:05] [main/INFO]: Requested GL version 4.6 got version 4.6
+[11:12:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/broec/AppData/Roaming/ModrinthApp/meta/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%23166!/ Service=ModLauncher Env=CLIENT
+[11:12:06] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 581.80, NVIDIA Corporation
+[11:12:06] [main/INFO]: Found mod file "client-1.21.1-20240808.144430-srg.jar" [locator: production client provider +net.neoforged:neoforge:21.1.225:client]
+[11:12:06] [main/INFO]: Found mod file "neoforge-21.1.225-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[C:\Users\broec\AppData\Roaming\ModrinthApp\meta\libraries\net\neoforged\neoforge\21.1.225\neoforge-21.1.225-universal.jar]], reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "appleskin-neoforge-mc1.21-3.0.9.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "athena-neoforge-1.21-4.0.3.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "chipped-neoforge-1.21.1-4.0.2.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "chloride-NEOFORGE-mc1.21.1-v1.7.5.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "Controlling-neoforge-1.21.1-19.0.5.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "copycats-3.0.4+mc.1.21.1-neoforge.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "create-1.21.1-6.0.9.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "DefaultWorldType-1.21-5.0.4.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "entityculling-neoforge-1.10.1-mc1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "fancymenu_neoforge_3.8.1_MC_1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "ferritecore-7.0.3-neoforge.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "iris-neoforge-1.8.12+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "Jade-1.21.1-NeoForge-15.10.5.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "jei-1.21.1-neoforge-19.27.0.340.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "journeymap-neoforge-1.21.1-6.0.0-beta.63.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "konkrete_neoforge_1.9.9_MC_1.21.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "kubejs-neoforge-2101.7.2-build.348.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "lithium-neoforge-0.15.3+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "melody_neoforge_1.0.10_MC_1.21.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "modernfix-neoforge-5.27.2+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "MouseTweaks-neoforge-mc1.21-2.26.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "oneblockisland-1.0.0.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "oneblockmod-1.0.0.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "resourcefullib-neoforge-1.21-3.0.12.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "rhino-2101.2.7-build.81.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "Searchables-neoforge-1.21.1-1.0.2.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "skinlayers3d-neoforge-1.11.1-mc1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "sodium-neoforge-0.6.13+mc1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "sodiumextras-neoforge-1.0.8-1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "sodiumleafculling-neoforge-1.0.1-1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "voicechat-neoforge-1.21.1-2.6.16.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "watermedia-2.1.37.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "watervision-NF-mc1.21.1-v0.1.0-alpha.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:06] [main/INFO]: Found mod file "xaeroworldmap-neoforge-1.21.1-1.40.11.jar" [locator: {mods folder locator at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\mods}, reader: mod manifest]
+[11:12:07] [main/INFO]: Found 25 dependencies adding them to mods collection
+[11:12:07] [main/INFO]: Found gamelibrary file "mixinextras-neoforge-0.5.3.jar" [parent: neoforge-21.1.225-universal.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found library file "yabn-1.0.3.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[11:12:07] [main/INFO]: Found mod file "fabric-api-base-0.4.42+d1308ded19.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found mod file "fabric-renderer-api-v1-3.4.0+acb05a3919.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found library file "net.caffeinemc.sodium-neoforge-0.6.13+mc1.21.1-service.jar" [parent: sodium-neoforge-0.6.13+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found mod file "ponder-neoforge-1.0.81+mc1.21.1.jar" [parent: create-1.21.1-6.0.9.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found library file "MixinSquared-0.2.0-beta.6.jar" [parent: mixinsquared-neoforge-0.2.0.jar, locator: jarinjar]
+[11:12:07] [main/INFO]: Found library file "net.neoforged.neoforge-coremods-21.1.225.jar" [parent: neoforge-21.1.225-universal.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found library file "pngj-2.1.0.jar" [parent: journeymap-neoforge-1.21.1-6.0.0-beta.63.jar, locator: jarinjar]
+[11:12:07] [main/INFO]: Found gamelibrary file "mixinsquared-neoforge-0.2.0.jar" [parent: sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found mod file "TRansition-1.0.17-1.21.1-neoforge-SNAPSHOT.jar" [parent: entityculling-neoforge-1.10.1-mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found mod file "fabric-rendering-data-attachment-v1-0.3.48+73761d2e19.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found mod file "xaerolib-neoforge-1.21.1-1.1.0.jar" [parent: xaeroworldmap-neoforge-1.21.1-1.40.11.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found mod file "common-networking-neoforge-1.0.21-1.21.1.jar" [parent: journeymap-neoforge-1.21.1-6.0.0-beta.63.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found library file "jcpp-1.4.14.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar]
+[11:12:07] [main/INFO]: Found library file "animated-gif-lib-for-java-animated-gif-lib-1.7.jar" [parent: fancymenu_neoforge_3.8.1_MC_1.21.1.jar, locator: jarinjar]
+[11:12:07] [main/INFO]: Found gamelibrary file "Registrate-MC1.21-1.3.0+67.jar" [parent: create-1.21.1-6.0.9.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found mod file "TRender-1.0.12-1.21.1-neoforge-SNAPSHOT.jar" [parent: entityculling-neoforge-1.10.1-mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found library file "japng-0.5.3.jar" [parent: fancymenu_neoforge_3.8.1_MC_1.21.1.jar, locator: jarinjar]
+[11:12:07] [main/INFO]: Found mod file "flywheel-neoforge-1.21.1-1.0.6.jar" [parent: create-1.21.1-6.0.9.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found library file "bytecodecs-1.1.2.jar" [parent: resourcefullib-neoforge-1.21-3.0.12.jar, locator: jarinjar]
+[11:12:07] [main/INFO]: Found library file "tiny-java-server-1.0.0-build.33.jar" [parent: kubejs-neoforge-2101.7.2-build.348.jar, locator: jarinjar]
+[11:12:07] [main/INFO]: Found mod file "journeymap-api-neoforge-2.0.0-1.21.1-SNAPSHOT.jar" [parent: journeymap-neoforge-1.21.1-6.0.0-beta.63.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: Found library file "glsl-transformer-2.0.1.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar]
+[11:12:07] [main/INFO]: Found mod file "fabric-block-view-api-v2-1.0.10+9afaaf8c19.jar" [parent: iris-neoforge-1.8.12+mc1.21.1.jar, locator: jarinjar, reader: mod manifest]
+[11:12:07] [main/INFO]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		3d-Skin-Layers 1.11.1 (skinlayers3d)
+		AppleSkin 3.0.9+mc1.21 (appleskin)
+		Athena 4.0.3 (athena)
+		Chipped 4.0.2 (chipped)
+		Chloride 1.7.5 (chloride)
+		Common Networking 1.0.21-1.21.1 (commonnetworking)
+		Controlling 19.0.5 (controlling)
+		Create 6.0.9 (create)
+		Create: Copycats+ 3.0.4+mc.1.21.1-neoforge (copycats)
+		Default World Type 1.21-5.0.4 (defaultworldtype)
+		EntityCulling 1.10.1 (entityculling)
+		FancyMenu 3.8.1 (fancymenu)
+		Ferrite Core 7.0.3 (ferritecore)
+		Flywheel 1.0.6 (flywheel)
+		Forgified Fabric API Base 0.4.42+d1308ded19 (fabric_api_base)
+		Forgified Fabric BlockView API (v2) 1.0.10+9afaaf8c19 (fabric_block_view_api_v2)
+		Forgified Fabric Renderer API (v1) 3.4.0+acb05a3919 (fabric_renderer_api_v1)
+		Forgified Fabric Rendering Data Attachment (v1) 0.3.48+73761d2e19 (fabric_rendering_data_attachment_v1)
+		Iris 1.8.12-snapshot+mc1.21.1-local (iris)
+		Jade 15.10.5+neoforge (jade)
+		Journeymap 1.21.1-6.0.0-beta.63 (journeymap)
+		JourneyMap API 2.0.0 (journeymap_api)
+		Just Enough Items 19.27.0.340 (jei)
+		Konkrete 1.9.9 (konkrete)
+		KubeJS 2101.7.2-build.348 (kubejs)
+		Lithium 0.15.3+mc1.21.1 (lithium)
+		Melody 1.0.10 (melody)
+		Minecraft 1.21.1 (minecraft)
+		ModernFix 5.27.2+mc1.21.1 (modernfix)
+		Mouse Tweaks 2.26.1 (mousetweaks)
+		NeoForge 21.1.225 (neoforge)
+		Oneblock Island 1.0.0 (oneblockisland)
+		OneBlock Mod 1.0.0 (oneblockmod)
+		Ponder 1.0.81+mc1.21.1 (ponder)
+		Reese's Sodium Options 1.8.3+mc1.21.4 (reeses_sodium_options)
+		Resourceful Lib 3.0.12 (resourcefullib)
+		Rhino 2101.2.7-build.81 (rhino)
+		Searchables 1.0.2 (searchables)
+		Simple Voice Chat 1.21.1-2.6.16 (voicechat)
+		Sodium 0.6.13+mc1.21.1 (sodium)
+		Sodium Dynamic Lights 1.0.9 (sodiumdynamiclights)
+		Sodium Extras 1.0.7 (sodiumextras)
+		Sodium Leaf Culling 1.0.1 (sodiumleafculling)
+		Sodium Options API 1.0.10 (sodiumoptionsapi)
+		TRansition 1.0.17 (transition)
+		TRender 1.0.12 (trender)
+		WaterMedia 2.1.37 (watermedia)
+		WaterVision 0.1.0-alpha (watervision)
+		Xaero's World Map 1.40.11 (xaeroworldmap)
+		XaeroLib 1.1.0 (xaerolib)
+[11:12:07] [main/INFO]: Loading coremod script-engine for [xaeroworldmap]
+[11:12:08] [main/INFO]: Compatibility level set to JAVA_21
+[11:12:08] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.21.1, --gameDir, C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8, --assetsDir, C:\Users\broec\AppData\Roaming\ModrinthApp\meta\assets, --uuid, 61693b76d918451993f3195d7da0c4c6, --username, Snoopypupser, --assetIndex, 17, --accessToken, ❄❄❄❄❄❄❄❄, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[11:12:08] [main/INFO]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+[11:12:08] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+[11:12:08] [main/INFO]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+[11:12:08] [main/INFO]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+[11:12:08] [main/INFO]: Loaded configuration file for Lithium: 148 options available, 0 override(s) found
+[11:12:08] [main/WARN]: Reference map 'xaerolib.refmap.json' for xaerolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'xaeroworldmap.refmap.json' for xaeroworldmap.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'controlling.refmap.json' for controlling.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'controlling.refmap.json' for controlling.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/INFO]: Loaded configuration file for ModernFix 5.27.2+mc1.21.1: 88 options available, 0 override(s) found
+[11:12:08] [main/INFO]: Applying Nashorn fix
+[11:12:08] [main/INFO]: Configuring Minecraft's max.bg.threads option with 9 threads
+[11:12:08] [main/WARN]: Reference map 'modernfix.refmap.json' for modernfix-modernfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.fantastic.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.vertexformat.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'iris.refmap.json' for iris-batched-entity-rendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'iris.refmap.json' for mixins.iris.compat.sodium.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/INFO]: Loaded configuration file for Sodium: 43 options available, 1 override(s) found
+[11:12:08] [main/WARN]: Reference map 'chloride.mixin-refmap.json' for chloride.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'melody.refmap.json' for melody.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'melody.refmap.json' for melody.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'skinlayers3d.refmap.mixins.json' for skinlayers3d.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'konkrete.refmap.json' for konkrete.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'konkrete.refmap.json' for konkrete.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'reeses-sodium-options.refmap.json' for reeses-sodium-options.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'defaultworldtype.refmap.json' for defaultworldtype.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'ponder.refmap.json' for ponder-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'searchables.refmap.json' for searchables.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'searchables.refmap.json' for searchables.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'entityculling.refmap.mixins.json' for entityculling.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'watervision.mixin-refmap.json' for watervision.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'fancymenu.refmap.json' for fancymenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map 'fancymenu.refmap.json' for fancymenu.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.predicates.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.fastmap.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.mrl.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupmultipart.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.blockstatecache.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupbakedquad.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.threaddetec.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.modelsides.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.datacomponents.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Reference map '${refmap_target}refmap.json' for ferritecore.accessors.mixin.json could not be read. If this is a development environment you can ignore this message
+[11:12:08] [main/WARN]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[11:12:09] [main/WARN]: Error loading class: com/portingdeadmods/cable_facades/events/GameClientEvents$2 (java.lang.ClassNotFoundException: com.portingdeadmods.cable_facades.events.GameClientEvents$2)
+[11:12:09] [main/WARN]: Error loading class: com/direwolf20/justdirethings/client/renderers/OurRenderTypes (java.lang.ClassNotFoundException: com.direwolf20.justdirethings.client.renderers.OurRenderTypes)
+[11:12:09] [main/WARN]: Error loading class: mekanism/client/render/entity/RenderFlame (java.lang.ClassNotFoundException: mekanism.client.render.entity.RenderFlame)
+[11:12:09] [main/WARN]: Error loading class: mekanism/client/render/armor/MekaSuitArmor (java.lang.ClassNotFoundException: mekanism.client.render.armor.MekaSuitArmor)
+[11:12:09] [main/WARN]: Error loading class: mekanism/client/render/lib/effect/BillboardingEffectRenderer (java.lang.ClassNotFoundException: mekanism.client.render.lib.effect.BillboardingEffectRenderer)
+[11:12:09] [main/WARN]: Error loading class: blusunrize/immersiveengineering/client/utils/IEGLShaders (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.client.utils.IEGLShaders)
+[11:12:09] [main/WARN]: Force-disabling mixin 'features.render.world.sky.FogRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[11:12:09] [main/WARN]: Force-disabling mixin 'features.render.world.sky.ClientLevelMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[11:12:09] [main/WARN]: Force-disabling mixin 'features.render.world.sky.LevelRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[11:12:09] [main/WARN]: Error loading class: dev/emi/emi/screen/EmiScreenManager (java.lang.ClassNotFoundException: dev.emi.emi.screen.EmiScreenManager)
+[11:12:09] [main/WARN]: Error loading class: me/shedaniel/rei/impl/client/gui/ScreenOverlayImpl (java.lang.ClassNotFoundException: me.shedaniel.rei.impl.client.gui.ScreenOverlayImpl)
+[11:12:09] [main/WARN]: Error loading class: traben/entity_model_features/models/parts/EMFModelPart (java.lang.ClassNotFoundException: traben.entity_model_features.models.parts.EMFModelPart)
+[11:12:09] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[11:12:09] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[11:12:09] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[11:12:09] [main/WARN]: Error loading class: net/fabricmc/fabric/impl/client/indigo/renderer/aocalc/AoCalculator (java.lang.ClassNotFoundException: net.fabricmc.fabric.impl.client.indigo.renderer.aocalc.AoCalculator)
+[11:12:10] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[11:12:10] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[11:12:10] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[11:12:10] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[11:12:10] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[11:12:10] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[11:12:10] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$ScheduledForRemoval)
+[11:12:10] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[18Apr.2026 11:12:10.898] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method decoratedId in modernfix-modernfix.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[18Apr.2026 11:12:12.242] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 229 Datafixer optimizations took 328 milliseconds
+[18Apr.2026 11:12:12.532] [pool-15-thread-1/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.834 s after launch)
+[18Apr.2026 11:12:12.798] [pool-15-thread-1/WARN] [mixin/]: Discarding @Unique public method embPlus$resourceLocation in chloride.mixin.json:EntityDistanceCullingMixin$EntityTypeMixin from mod chloride because it already exists in net.minecraft.world.entity.EntityType
+[18Apr.2026 11:12:13.581] [pool-15-thread-1/WARN] [mixin/]: Method overwrite conflict for skipRendering in chloride.mixin.json:leaves_culling.LeavesBlockMixin from mod chloride, previously written by net.caffeinemc.mods.sodium.mixin.features.options.render_layers.LeavesBlockMixin. Skipping method.
+[18Apr.2026 11:12:14.343] [pool-15-thread-1/WARN] [mixin/]: Method overwrite conflict for getTemperature in modernfix-modernfix.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[18Apr.2026 11:12:16.860] [pool-15-thread-1/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 4294 milliseconds
+[18Apr.2026 11:12:17.113] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method setSectionDirty in sodium-common.mixins.json:core.render.world.LevelRendererMixin from mod sodium cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[18Apr.2026 11:12:17.454] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/broec/AppData/Roaming/ModrinthApp/meta/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar%23227!/assets/.mcassetsroot' uses unexpected schema
+[18Apr.2026 11:12:17.454] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/broec/AppData/Roaming/ModrinthApp/meta/libraries/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar%23227!/data/.mcassetsroot' uses unexpected schema
+[18Apr.2026 11:12:17.481] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18Apr.2026 11:12:17.491] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Snoopypupser
+[18Apr.2026 11:12:17.649] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[18Apr.2026 11:12:17.661] [Render thread/WARN] [mixin/]: @Redirect conflict. Skipping chloride.mixin.json:BorderlessMixin$WindowMixin from mod chloride->@Redirect::redirect$glfwSetWindowMonitor(JJIIIII)V with priority 1000, already redirected by mixins.sodiumextras.json:impl.borderless.BorderlessWindowMixin from mod sodiumextras->@Redirect::redirect$glfwSetWindowMonitor(JJIIIII)V with priority 1000
+[18Apr.2026 11:12:17.661] [Render thread/WARN] [mixin/]: @Redirect conflict. Skipping chloride.mixin.json:BorderlessMixin$WindowMixin from mod chloride->@Redirect::redirect$glfwSetWindowMonitor(JJIIIII)V with priority 1000, already redirected by mixins.sodiumextras.json:impl.borderless.BorderlessWindowMixin from mod sodiumextras->@Redirect::redirect$glfwSetWindowMonitor(JJIIIII)V with priority 1000
+[18Apr.2026 11:12:17.661] [Render thread/WARN] [mixin/]: @Redirect conflict. Skipping chloride.mixin.json:BorderlessMixin$WindowMixin from mod chloride->@Redirect::redirect$glfwGetWindowMonitor(J)J with priority 1000, already redirected by mixins.sodiumextras.json:impl.borderless.BorderlessWindowMixin from mod sodiumextras->@Redirect::redirect$glfwGetWindowMonitor(J)J with priority 1000
+[18Apr.2026 11:12:17.797] [Render thread/INFO] [com.mojang.blaze3d.platform.Window/]: OpenGL Vendor: NVIDIA Corporation
+[18Apr.2026 11:12:17.797] [Render thread/INFO] [com.mojang.blaze3d.platform.Window/]: OpenGL Renderer: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2
+[18Apr.2026 11:12:17.797] [Render thread/INFO] [com.mojang.blaze3d.platform.Window/]: OpenGL Version: 4.6.0 NVIDIA 581.80
+[18Apr.2026 11:12:17.800] [Render thread/INFO] [Sodium-NvidiaWorkarounds/]: Modifying OpenGL context to apply workarounds for the NVIDIA graphics driver...
+[18Apr.2026 11:12:18.083] [Render thread/INFO] [Iris/]: Debug functionality is disabled.
+[18Apr.2026 11:12:18.085] [Render thread/INFO] [Iris/]: OpenGL 4.5 detected, enabling DSA.
+[18Apr.2026 11:12:18.107] [Render thread/INFO] [Iris/]: Shaders are disabled because no valid shaderpack is selected
+[18Apr.2026 11:12:18.127] [ForkJoinPool.commonPool-worker-5/WARN] [Iris/]: [Iris Update Check] This version doesn't have an update index, skipping.
+[18Apr.2026 11:12:18.220] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Preparing 'WATERMeDIA' on 'NeoForge'
+[18Apr.2026 11:12:18.220] [modloading-worker-0/INFO] [STDOUT/]: [dev.tr7zw.trender.gui.impl.client.LibGuiClient:onInitializeClient:36]: [LibGui] Initializing Client...
+[18Apr.2026 11:12:18.220] [modloading-worker-0/INFO] [watermedia/Bootstrap]: WaterMedia version '2.1.37'
+[18Apr.2026 11:12:18.221] [modloading-worker-0/INFO] [watermedia/Bootstrap]: OS Detected: Windows 11 (x86-64)
+[18Apr.2026 11:12:18.221] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Runtime memory Usage: 351MB/10560MB
+[18Apr.2026 11:12:18.253] [modloading-worker-0/INFO] [de.keksuccino.melody.Melody/]: [MELODY] Loading v1.0.10 on NEOFORGE...
+[18Apr.2026 11:12:18.258] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.door.CopycatDoorBlock
+[18Apr.2026 11:12:18.258] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.door.CopycatDoorBlock
+[18Apr.2026 11:12:18.258] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.door.CopycatDoorBlock
+[18Apr.2026 11:12:18.258] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.door.CopycatDoorBlock
+[18Apr.2026 11:12:18.265] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.225, for MC 1.21.1
+[18Apr.2026 11:12:18.267] [modloading-worker-0/INFO] [chloride/Main]: Chloride is here, lets make your experience taste-able
+[18Apr.2026 11:12:18.272] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Loading v1.9.9 in client-side mode on NEOFORGE!
+[18Apr.2026 11:12:18.272] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Starting CacheAPI
+[18Apr.2026 11:12:18.272] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[18Apr.2026 11:12:18.272] [modloading-worker-0/INFO] [watermedia/CacheAPI]: Mounted on path 'C:\Users\broec\AppData\Local\Temp\watermedia\cache\pictures'
+[18Apr.2026 11:12:18.272] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: KONKRETE SHIPS AND USES THE FOLLOWING LIBRARIES:
+[18Apr.2026 11:12:18.274] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[18Apr.2026 11:12:18.274] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging Copyright © 2014 Dhyan Blum.
+[18Apr.2026 11:12:18.274] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Open Imaging is licensed under Apache-2.0.
+[18Apr.2026 11:12:18.274] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[18Apr.2026 11:12:18.274] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath Copyright © 2017 Jayway.
+[18Apr.2026 11:12:18.274] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: JsonPath is licensed under Apache-2.0.
+[18Apr.2026 11:12:18.274] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[18Apr.2026 11:12:18.274] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart Copyright © netplex.
+[18Apr.2026 11:12:18.274] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatGlassFluidPipeBlock
+[18Apr.2026 11:12:18.274] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Json-smart is licensed under Apache-2.0.
+[18Apr.2026 11:12:18.275] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatGlassFluidPipeBlock
+[18Apr.2026 11:12:18.275] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]:  
+[18Apr.2026 11:12:18.275] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Module CacheAPI loaded successfully
+[18Apr.2026 11:12:18.275] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatGlassFluidPipeBlock
+[18Apr.2026 11:12:18.275] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j Copyright © Frank Asseg.
+[18Apr.2026 11:12:18.275] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Starting PlayerAPI
+[18Apr.2026 11:12:18.275] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatGlassFluidPipeBlock
+[18Apr.2026 11:12:18.275] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: Exp4j is licensed under Apache-2.0. https://github.com/fasseg/exp4j
+[18Apr.2026 11:12:18.275] [modloading-worker-0/INFO] [watermedia/PlayerAPI]: Binaries are wrapped
+[18Apr.2026 11:12:18.275] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: ---------------------------
+[18Apr.2026 11:12:18.275] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side modules initialized and ready to use!
+[18Apr.2026 11:12:18.281] [modloading-worker-0/WARN] [watermedia/PlayerAPI]: VLC binaries extraction skipped. Extracted version match with wrapped version
+[18Apr.2026 11:12:18.284] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlock
+[18Apr.2026 11:12:18.284] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlock
+[18Apr.2026 11:12:18.284] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlock
+[18Apr.2026 11:12:18.285] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlock
+[18Apr.2026 11:12:18.300] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlock
+[18Apr.2026 11:12:18.300] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlock
+[18Apr.2026 11:12:18.300] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlock
+[18Apr.2026 11:12:18.300] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlock
+[18Apr.2026 11:12:18.316] [modloading-worker-0/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Main.initialize()
+[18Apr.2026 11:12:18.320] [modloading-worker-0/INFO] [VideoLan4J/NativeDiscovery]: Searching using 'WaterMedia Provider'
+[18Apr.2026 11:12:18.321] [modloading-worker-0/INFO] [VideoLan4J/NativeDiscovery]: Searching on 'C:\Users\broec\AppData\Local\Temp\watermedia\videolan'
+[18Apr.2026 11:12:18.322] [modloading-worker-0/INFO] [VideoLan4J/NativeDiscovery]: Setting plugins path to 'C:\Users\broec\AppData\Local\Temp\watermedia\videolan\plugins'
+[18Apr.2026 11:12:18.327] [modloading-worker-0/INFO] [VideoLan4J/NativeDiscovery]: Founded VLC binaries in 'C:\Users\broec\AppData\Local\Temp\watermedia\videolan' using 'WaterMedia Provider', running test...
+[18Apr.2026 11:12:18.327] [modloading-worker-0/INFO] [STDOUT/]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Initialized.
+[18Apr.2026 11:12:18.353] [modloading-worker-0/INFO] [de.keksuccino.fancymenu.FancyMenu/]: [FANCYMENU] Loading v3.8.1 in client-side mode on NEOFORGE!
+[18Apr.2026 11:12:18.389] [modloading-worker-0/INFO] [xaero.lib.XaeroLib/]: Registering common data for channel xaerolib:main!
+[18Apr.2026 11:12:18.413] [modloading-worker-0/INFO] [xaero.lib.XaeroLib/]: Registering client data for channel xaerolib:main!
+[18Apr.2026 11:12:18.428] [modloading-worker-0/INFO] [xaero.lib.XaeroLib/]: Loading primary common config for channel xaerolib:main!
+[18Apr.2026 11:12:18.445] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlock
+[18Apr.2026 11:12:18.445] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlock
+[18Apr.2026 11:12:18.445] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlock
+[18Apr.2026 11:12:18.446] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlock
+[18Apr.2026 11:12:18.451] [modloading-worker-0/INFO] [xaero.lib.XaeroLib/]: Loading server config profiles for channel xaerolib:main!
+[18Apr.2026 11:12:18.463] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[18Apr.2026 11:12:18.467] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 2.812 milliseconds
+[18Apr.2026 11:12:18.470] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.9 initializing! Commit hash: e2de2b9a02406ec33ff6d8851ed6f0b56240b6ec
+[18Apr.2026 11:12:18.474] [modloading-worker-0/INFO] [xaero.lib.XaeroLib/]: Loading primary client config for channel xaerolib:main!
+[18Apr.2026 11:12:18.489] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.button.CopycatButtonBlock
+[18Apr.2026 11:12:18.490] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.button.CopycatButtonBlock
+[18Apr.2026 11:12:18.490] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.button.CopycatButtonBlock
+[18Apr.2026 11:12:18.490] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.button.CopycatButtonBlock
+[18Apr.2026 11:12:18.494] [modloading-worker-0/INFO] [xaero.lib.XaeroLib/]: Loading client config profiles for channel xaerolib:main!
+[18Apr.2026 11:12:18.505] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence.CopycatFenceBlock
+[18Apr.2026 11:12:18.505] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence.CopycatFenceBlock
+[18Apr.2026 11:12:18.505] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence.CopycatFenceBlock
+[18Apr.2026 11:12:18.507] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence.CopycatFenceBlock
+[18Apr.2026 11:12:18.514] [modloading-worker-0/INFO] [xaero.map.WorldMap/]: Registering common data for channel xaeroworldmap:main!
+[18Apr.2026 11:12:18.516] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence_gate.CopycatFenceGateBlock
+[18Apr.2026 11:12:18.516] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence_gate.CopycatFenceGateBlock
+[18Apr.2026 11:12:18.517] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence_gate.CopycatFenceGateBlock
+[18Apr.2026 11:12:18.517] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fence_gate.CopycatFenceGateBlock
+[18Apr.2026 11:12:18.561] [modloading-worker-0/INFO] [xaero.map.WorldMap/]: Registering client data for channel xaeroworldmap:main!
+[18Apr.2026 11:12:18.566] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.ladder.CopycatLadderBlock
+[18Apr.2026 11:12:18.566] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.ladder.CopycatLadderBlock
+[18Apr.2026 11:12:18.566] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.ladder.CopycatLadderBlock
+[18Apr.2026 11:12:18.566] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.ladder.CopycatLadderBlock
+[18Apr.2026 11:12:18.577] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatPressurePlateBlock
+[18Apr.2026 11:12:18.578] [modloading-worker-0/INFO] [xaero.map.WorldMap/]: Loading primary common config for channel xaeroworldmap:main!
+[18Apr.2026 11:12:18.578] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatPressurePlateBlock
+[18Apr.2026 11:12:18.578] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatPressurePlateBlock
+[18Apr.2026 11:12:18.578] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatPressurePlateBlock
+[18Apr.2026 11:12:18.585] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatWeightedPressurePlate
+[18Apr.2026 11:12:18.585] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatWeightedPressurePlate
+[18Apr.2026 11:12:18.585] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatWeightedPressurePlate
+[18Apr.2026 11:12:18.585] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pressure_plate.CopycatWeightedPressurePlate
+[18Apr.2026 11:12:18.595] [modloading-worker-0/INFO] [xaero.map.WorldMap/]: Loading server config profiles for channel xaeroworldmap:main!
+[18Apr.2026 11:12:18.600] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.stairs.CopycatStairsBlock
+[18Apr.2026 11:12:18.600] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.stairs.CopycatStairsBlock
+[18Apr.2026 11:12:18.601] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.stairs.CopycatStairsBlock
+[18Apr.2026 11:12:18.601] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.stairs.CopycatStairsBlock
+[18Apr.2026 11:12:18.613] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.trapdoor.CopycatTrapdoorBlock
+[18Apr.2026 11:12:18.613] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.trapdoor.CopycatTrapdoorBlock
+[18Apr.2026 11:12:18.613] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.trapdoor.CopycatTrapdoorBlock
+[18Apr.2026 11:12:18.613] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.trapdoor.CopycatTrapdoorBlock
+[18Apr.2026 11:12:18.615] [modloading-worker-0/INFO] [xaero.map.WorldMap/]: Loading primary client config for channel xaeroworldmap:main!
+[18Apr.2026 11:12:18.619] [modloading-worker-0/INFO] [KubeJS/]: Loading vanilla registries...
+[18Apr.2026 11:12:18.634] [modloading-worker-0/INFO] [xaero.map.WorldMap/]: Loading client config profiles for channel xaeroworldmap:main!
+[18Apr.2026 11:12:18.637] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[18Apr.2026 11:12:18.641] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[18Apr.2026 11:12:18.646] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.wall.CopycatWallBlock
+[18Apr.2026 11:12:18.647] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.wall.CopycatWallBlock
+[18Apr.2026 11:12:18.647] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.wall.CopycatWallBlock
+[18Apr.2026 11:12:18.647] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.wall.CopycatWallBlock
+[18Apr.2026 11:12:18.654] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration does not have required mod 'architectury' loaded, skipping
+[18Apr.2026 11:12:18.655] [modloading-worker-0/INFO] [KubeJS/]: Done in 17.68 ms
+[18Apr.2026 11:12:18.665] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlock
+[18Apr.2026 11:12:18.667] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlock
+[18Apr.2026 11:12:18.667] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlock
+[18Apr.2026 11:12:18.667] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlock
+[18Apr.2026 11:12:18.675] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlock
+[18Apr.2026 11:12:18.675] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlock
+[18Apr.2026 11:12:18.676] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlock
+[18Apr.2026 11:12:18.676] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlock
+[18Apr.2026 11:12:18.690] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlock
+[18Apr.2026 11:12:18.691] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlock
+[18Apr.2026 11:12:18.691] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlock
+[18Apr.2026 11:12:18.691] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlock
+[18Apr.2026 11:12:18.711] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pane.CopycatPaneBlock
+[18Apr.2026 11:12:18.713] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pane.CopycatPaneBlock
+[18Apr.2026 11:12:18.713] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pane.CopycatPaneBlock
+[18Apr.2026 11:12:18.713] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useWithoutItem in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.pane.CopycatPaneBlock
+[18Apr.2026 11:12:18.731] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.CCCopycatBlockEntity
+[18Apr.2026 11:12:18.738] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.foundation.copycat.multistate.MultiStateCopycatBlockEntity
+[18Apr.2026 11:12:18.743] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.shaft.CopycatShaftBlockEntity
+[18Apr.2026 11:12:18.754] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.multistate.MultiStateCopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.cogwheel.CopycatCogWheelBlockEntity
+[18Apr.2026 11:12:18.757] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatFluidPipeBlockEntity
+[18Apr.2026 11:12:18.759] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.fluid_pipe.CopycatStraightPipeBlockEntity
+[18Apr.2026 11:12:18.762] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-neoforge.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.copycatsplus.copycats.content.copycat.sliding_door.CopycatSlidingDoorBlockEntity
+[18Apr.2026 11:12:19.089] [modloading-worker-0/INFO] [VideoLan4J/NativeDiscovery]: VLC test instance created successfully
+[18Apr.2026 11:12:19.090] [modloading-worker-0/INFO] [VideoLan4J/NativeDiscovery]: Successfully loaded VLC 3.0.18 Vetinari in 'C:\Users\broec\AppData\Local\Temp\watermedia\videolan' using 'WaterMedia Provider'
+[18Apr.2026 11:12:19.280] [modloading-worker-0/INFO] [KubeJS Startup/]: startup_scripts:main.js#2: Hello, World! (Loaded startup example script)
+[18Apr.2026 11:12:19.282] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:main.js in 0.039 s
+[18Apr.2026 11:12:19.284] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 0.617 s with 0 errors and 0 warnings
+[18Apr.2026 11:12:19.300] [modloading-worker-0/INFO] [KubeJS Client/]: client_scripts:main.js#2: Hello, World! (Loaded client example script)
+[18Apr.2026 11:12:19.300] [modloading-worker-0/INFO] [KubeJS Client/]: Loaded script client_scripts:main.js in 0.0 s
+[18Apr.2026 11:12:19.301] [modloading-worker-0/INFO] [KubeJS Client/]: Loaded 1/1 KubeJS client scripts in 0.014 s with 0 errors and 0 warnings
+[18Apr.2026 11:12:19.308] [modloading-worker-0/INFO] [KubeJS Startup/]: Validated 2 files in kubejs/assets/ in 4ms
+[18Apr.2026 11:12:19.309] [modloading-worker-0/INFO] [KubeJS Startup/]: Validated 0 files in kubejs/data/ in 0ms
+[18Apr.2026 11:12:19.385] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-common.mixins.json:copycat.step.CopycatStepBlockMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatStepBlock
+[18Apr.2026 11:12:19.393] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method onLoad in copycats-common.mixins.json:foundation.copycat.CopycatBlockEntityMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatBlockEntity
+[18Apr.2026 11:12:19.402] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method useItemOn in copycats-common.mixins.json:copycat.panel.CopycatPanelBlockMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatPanelBlock
+[18Apr.2026 11:12:19.402] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method mirror in copycats-common.mixins.json:copycat.panel.CopycatPanelBlockMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatPanelBlock
+[18Apr.2026 11:12:19.402] [modloading-worker-0/WARN] [mixin/]: Discarding @Unique public method rotate in copycats-common.mixins.json:copycat.panel.CopycatPanelBlockMixin from mod copycats because it already exists in com.simibubi.create.content.decoration.copycat.CopycatPanelBlock
+[18Apr.2026 11:12:19.558] [modloading-worker-0/INFO] [watermedia/PlayerAPI]: Created new VLC instance with ID 'watermedia:default' with args: '[--no-quiet, --cr-average=5000, --swscale-mode=0, --network-synchronisation, --network-caching=1000, --live-caching=1000, --file-caching=1000, --aout, directsound,waveout,mmdevice, --vout, direct3d11,glwin32,gl,any, --avcodec-skip-idct=4, --avcodec-fast, --avcodec-hw, d3d11va,dxva2,any, --no-metadata-network-access, --no-file-logging, --http-reconnect]'
+[18Apr.2026 11:12:19.562] [modloading-worker-0/INFO] [watermedia/PlayerAPI]: Created new VLC instance with ID 'watermedia:sound_only' with args: '[--no-quiet, --cr-average=5000, --swscale-mode=0, --network-synchronisation, --network-caching=1000, --live-caching=1000, --file-caching=1000, --aout, directsound,waveout,mmdevice, --vout, direct3d11,glwin32,gl,any, --avcodec-skip-idct=4, --avcodec-fast, --avcodec-hw, d3d11va,dxva2,any, --no-metadata-network-access, --no-file-logging, --http-reconnect, --vout=none]'
+[18Apr.2026 11:12:19.562] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Module PlayerAPI loaded successfully
+[18Apr.2026 11:12:19.562] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Starting ImageAPI
+[18Apr.2026 11:12:19.563] [modloading-worker-0/INFO] [watermedia/ImageAPI]: Loading image resources in a ImageRenderer instance
+[18Apr.2026 11:12:19.694] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Module ImageAPI loaded successfully
+[18Apr.2026 11:12:19.694] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Starting RenderAPI
+[18Apr.2026 11:12:19.696] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Module RenderAPI loaded successfully
+[18Apr.2026 11:12:19.696] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Starting NetworkAPI
+[18Apr.2026 11:12:19.698] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Module NetworkAPI loaded successfully
+[18Apr.2026 11:12:19.698] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Setting up shutdown hook
+[18Apr.2026 11:12:19.698] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Startup finished
+[18Apr.2026 11:12:19.698] [modloading-worker-0/INFO] [watermedia/Bootstrap]: Are you ready for trouble?
+[18Apr.2026 11:12:21.262] [modloading-sync-worker/INFO] [SodiumExtras/Config]: Updating config cache
+[18Apr.2026 11:12:21.263] [modloading-sync-worker/INFO] [SodiumExtras/Config]: Cache updated successfully
+[18Apr.2026 11:12:21.307] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:12:21.685] [Render thread/INFO] [Iris/]: Hardware information:
+[18Apr.2026 11:12:21.686] [Render thread/INFO] [Iris/]: CPU: 12x AMD Ryzen 5 5600G with Radeon Graphics 
+[18Apr.2026 11:12:21.686] [Render thread/INFO] [Iris/]: GPU: NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2 (Supports OpenGL 4.6.0 NVIDIA 581.80)
+[18Apr.2026 11:12:21.686] [Render thread/INFO] [Iris/]: OS: Windows 11 (10.0)
+[18Apr.2026 11:12:22.097] [Render thread/INFO] [net.minecraft.client.Minecraft/]: [FANCYMENU] Registering resource reload listener..
+[18Apr.2026 11:12:22.211] [Render thread/INFO] [mixin/]: fancymenu.mixins.json:client.IMixinRealmsNotificationsScreen from mod fancymenu->@Accessor[FIELD_GETTER]::get_trialAvailable_FancyMenu()Z should be static as its target is
+[18Apr.2026 11:12:22.212] [Render thread/INFO] [mixin/]: fancymenu.mixins.json:client.IMixinRealmsNotificationsScreen from mod fancymenu->@Accessor[FIELD_GETTER]::get_hasUnreadNews_FancyMenu()Z should be static as its target is
+[18Apr.2026 11:12:22.212] [Render thread/INFO] [mixin/]: fancymenu.mixins.json:client.IMixinRealmsNotificationsScreen from mod fancymenu->@Accessor[FIELD_GETTER]::get_hasUnseenNotifications()Z should be static as its target is
+[18Apr.2026 11:12:22.303] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, KubeJS Virtual Resource Pack [Before Mods, assets], mod_resources, mod/sodium, mod/rhino, mod/fabric_renderer_api_v1, mod/sodiumextras, mod/sodiumleafculling, mod/watermedia, mod/copycats, mod/jei, mod/lithium, mod/xaerolib, mod/commonnetworking, mod/trender, mod/xaeroworldmap, mod/journeymap, mod/controlling, mod/neoforge, mod/kubejs, mod/modernfix, mod/fabric_block_view_api_v2, mod/oneblockmod, mod/iris, mod/chloride, mod/sodiumoptionsapi, mod/melody, mod/skinlayers3d, mod/sodiumdynamiclights, mod/konkrete, mod/athena, mod/chipped, mod/voicechat,voicechat_api, mod/fabric_api_base, mod/mousetweaks, mod/jade, mod/reeses_sodium_options, mod/defaultworldtype, mod/flywheel, mod/ponder, mod/create, mod/searchables, mod/entityculling, mod/watervision, mod/resourcefullib, mod/fancymenu, mod/appleskin, mod/ferritecore, mod/transition, mod/fabric_rendering_data_attachment_v1, mod/oneblockisland, KubeJS Virtual Resource Pack [Internal, assets], KubeJS Virtual Resource Pack [After Mods, assets], KubeJS File Resource Pack [assets], mod/journeymap_api, KubeJS Virtual Resource Pack [Last, assets]
+[18Apr.2026 11:12:22.323] [Worker-ResourceReload-0/INFO] [xaero.lib.XaeroLib/]: Loading XaeroLib common 1/2!
+[18Apr.2026 11:12:22.326] [Worker-ResourceReload-2/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[18Apr.2026 11:12:22.327] [Worker-ResourceReload-5/INFO] [voicechat/]: [voicechat] Compatibility version 20
+[18Apr.2026 11:12:22.328] [Worker-ResourceReload-2/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@190b89a8 for service interface journeymap.api.services.ClientPlatformService
+[18Apr.2026 11:12:22.332] [Worker-ResourceReload-2/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@1df24c9b for service interface journeymap.api.services.CommonPlatformService
+[18Apr.2026 11:12:22.353] [Worker-ResourceReload-2/INFO] [journeymap/]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[18Apr.2026 11:12:22.358] [Worker-ResourceReload-2/INFO] [journeymap/]: Found @JourneyMapPlugin: com.simibubi.create.compat.trainmap.JourneyTrainMap
+[18Apr.2026 11:12:22.358] [Worker-ResourceReload-2/WARN] [journeymap/]: The mod create for plugin com.simibubi.create.compat.trainmap.JourneyTrainMap is using a deprecated annotation, please inform the plugin mod dev they need to update.
+[18Apr.2026 11:12:22.395] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [watermedia] Starting version check at https://neoforge.curseupdate.com/869524/watermedia
+[18Apr.2026 11:12:22.413] [Render thread/INFO] [de.keksuccino.fancymenu.customization.ScreenCustomization/]: [FANCYMENU] Initializing screen customization engine! Addons should NOT REGISTER TO REGISTRIES anymore now!
+[18Apr.2026 11:12:22.415] [Worker-ResourceReload-5/INFO] [voicechat/]: [voicechat] Loading plugins
+[18Apr.2026 11:12:22.428] [Worker-ResourceReload-5/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[18Apr.2026 11:12:22.429] [Worker-ResourceReload-5/INFO] [voicechat/]: [voicechat] Initializing plugins
+[18Apr.2026 11:12:22.429] [Worker-ResourceReload-5/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[18Apr.2026 11:12:22.457] [Worker-ResourceReload-9/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.05.hex, loading
+[18Apr.2026 11:12:22.839] [Worker-ResourceReload-9/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-15.1.05.hex, loading
+[18Apr.2026 11:12:22.845] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [watermedia] Found status: UP_TO_DATE Current: 2.1.37 Target: null
+[18Apr.2026 11:12:22.845] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [copycats] Starting version check at https://raw.githubusercontent.com/copycats-plus/copycats/multiloader/update.json
+[18Apr.2026 11:12:22.944] [Render thread/INFO] [de.keksuccino.fancymenu.FancyMenu/]: [FANCYMENU] Starting late client initialization phase..
+[18Apr.2026 11:12:22.982] [Render thread/INFO] [KubeJS Client/]: Client resource reload complete!
+[18Apr.2026 11:12:23.019] [Render thread/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Client-side modules initialized and ready to use!
+[18Apr.2026 11:12:23.054] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [copycats] Found status: AHEAD Current: 3.0.4+mc.1.21.1-neoforge Target: null
+[18Apr.2026 11:12:23.054] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
+[18Apr.2026 11:12:23.127] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.1-6.0.0-beta.63 Target: 1.21.1-6.0.0-beta.52
+[18Apr.2026 11:12:23.127] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.21.1&ml=neoforge
+[18Apr.2026 11:12:23.141] [Worker-ResourceReload-9/INFO] [xaero.lib.XaeroLib/]: Loading XaeroLib client 1/2!
+[18Apr.2026 11:12:23.147] [Worker-ResourceReload-2/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 1/2
+[18Apr.2026 11:12:23.222] [Worker-ResourceReload-2/INFO] [chloride/]: LOADED CHLORIDE
+[18Apr.2026 11:12:23.228] [Worker-ResourceReload-2/INFO] [sodiumdynamiclights/]: [LambDynLights] Initializing SodiumDynamicLights...
+[18Apr.2026 11:12:23.228] [Worker-ResourceReload-2/ERROR] [ModernFix/]: A mod is calling registerReloadListener at the wrong time. This will cause random concurrency crashes when ModernFix is not installed. Please report this to them. If you are a modder, refer to https://github.com/embeddedt/ModernFix/wiki/registerReloadListener-called-on-wrong-thread for more information.
+java.lang.Exception: registerReloadListener called on wrong thread
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.ReloadableResourceManager.wrapMethod$bcm000$modernfix$checkCallingThread(ReloadableResourceManager.java:536) ~[client-1.21.1-20240808.144430-srg.jar%23227!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.packs.resources.ReloadableResourceManager.registerReloadListener(ReloadableResourceManager.java) ~[client-1.21.1-20240808.144430-srg.jar%23227!/:?]
+	at TRANSFORMER/sodiumdynamiclights@1.0.9/toni.sodiumdynamiclights.SodiumDynamicLights.registerClient(SodiumDynamicLights.java:245) ~[sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar%23258!/:?]
+	at TRANSFORMER/sodiumdynamiclights@1.0.9/toni.sodiumdynamiclights.SodiumDynamicLights.registerReloadListener(SodiumDynamicLights.java:240) ~[sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar%23258!/:?]
+	at TRANSFORMER/sodiumdynamiclights@1.0.9/toni.sodiumdynamiclights.SodiumDynamicLights.onInitializeClient(SodiumDynamicLights.java:212) ~[sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar%23258!/:?]
+	at TRANSFORMER/sodiumdynamiclights@1.0.9/toni.sodiumdynamiclights.SodiumDynamicLights.clientSetup(SodiumDynamicLights.java:231) ~[sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar%23258!/:?]
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.ConsumerEventHandler.invoke(ConsumerEventHandler.java:27) ~[bus-8.0.5.jar%23155!/:?]
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%23155!/:?]
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar%23155!/:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:158) ~[loader-4.0.42.jar%23152!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$dispatchParallelEvent$4(ModLoader.java:172) ~[loader-4.0.42.jar%23152!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModLoader.lambda$dispatchParallelTask$7(ModLoader.java:231) ~[loader-4.0.42.jar%23152!/:4.0]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(Unknown Source) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(Unknown Source) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(Unknown Source) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) [?:?]
+[18Apr.2026 11:12:23.268] [Worker-ResourceReload-2/INFO] [voicechat/]: [voicechat] Initializing Opus
+[18Apr.2026 11:12:23.300] [Worker-ResourceReload-2/INFO] [voicechat/]: [voicechat] Successfully initialized Opus
+[18Apr.2026 11:12:23.302] [Worker-ResourceReload-2/INFO] [voicechat/]: [voicechat] Initializing RNNoise
+[18Apr.2026 11:12:23.318] [Worker-ResourceReload-2/INFO] [voicechat/]: [voicechat] Successfully initialized RNNoise
+[18Apr.2026 11:12:23.319] [Worker-ResourceReload-2/INFO] [voicechat/]: [voicechat] Initializing Speex
+[18Apr.2026 11:12:23.330] [Worker-ResourceReload-2/INFO] [voicechat/]: [voicechat] Successfully initialized Speex
+[18Apr.2026 11:12:23.330] [Worker-ResourceReload-2/INFO] [voicechat/]: [voicechat] Initializing LAME
+[18Apr.2026 11:12:23.333] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [controlling] Found status: BETA Current: 19.0.5 Target: 19.0.5
+[18Apr.2026 11:12:23.334] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [chipped] Starting version check at https://api.modrinth.com/updates/BAscRYKm/forge_updates.json
+[18Apr.2026 11:12:23.345] [Worker-ResourceReload-2/INFO] [voicechat/]: [voicechat] Successfully initialized LAME
+[18Apr.2026 11:12:23.597] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [chipped] Found status: BETA Current: 4.0.2 Target: null
+[18Apr.2026 11:12:23.597] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/neoforge/voicechat
+[18Apr.2026 11:12:23.739] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [voicechat] Found status: BETA Current: 1.21.1-2.6.16 Target: 1.21.1-2.6.16
+[18Apr.2026 11:12:23.743] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [defaultworldtype] Starting version check at https://assets.melanx.de/updates/defaultworldtype.json
+[18Apr.2026 11:12:23.861] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [defaultworldtype] Found status: BETA Current: 1.21-5.0.4 Target: 1.21-5.0.4
+[18Apr.2026 11:12:23.861] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.21.1&ml=neoforge
+[18Apr.2026 11:12:23.885] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.2 Target: 1.0.2
+[18Apr.2026 11:12:24.101] [Worker-ResourceReload-9/WARN] [xaero.lib.XaeroLib/]: io exception while checking patreon: Connect timed out
+[18Apr.2026 11:12:24.109] [Render thread/ERROR] [watermedia/ImageAPI]: Founded directories but custom loading gif is missing
+[18Apr.2026 11:12:24.111] [Render thread/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 2/2
+[18Apr.2026 11:12:24.122] [Render thread/INFO] [xaero.map.WorldMap/]: New world map region cache hash code: -740090599
+[18Apr.2026 11:12:24.300] [Render thread/ERROR] [xaero.map.WorldMap/]: io exception while checking versions: Online mod data expired! Date: Wed Apr 15 12:09:16 CEST 2026
+[18Apr.2026 11:12:24.301] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: map_synced
+[18Apr.2026 11:12:24.301] [Render thread/INFO] [xaero.map.WorldMap/]: No Optifine!
+[18Apr.2026 11:12:24.301] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: No Vivecraft!
+[18Apr.2026 11:12:24.303] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: Iris found!
+[18Apr.2026 11:12:24.333] [Render thread/INFO] [journeymap/]: Journeymap Initializing
+[18Apr.2026 11:12:24.562] [Render thread/INFO] [KubeJS/]: Started the local web server at http://localhost:61423
+[18Apr.2026 11:12:24.568] [Render thread/INFO] [xaero.lib.XaeroLib/]: Loading XaeroLib common 2/2!
+[18Apr.2026 11:12:24.568] [Render thread/INFO] [xaero.lib.XaeroLib/]: Loading XaeroLib client 2/2!
+[18Apr.2026 11:12:27.128] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.vanilla.VanillaPlugin
+[18Apr.2026 11:12:27.159] [Worker-ResourceReload-10/INFO] [PonderIndex/]: Registering Ponder Scenes took 67.90 ms
+[18Apr.2026 11:12:27.164] [Worker-ResourceReload-10/INFO] [PonderIndex/]: Registering Ponder Tags took 3.981 ms
+[18Apr.2026 11:12:27.171] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.universal.UniversalPlugin
+[18Apr.2026 11:12:27.177] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.debug.DebugPlugin
+[18Apr.2026 11:12:27.179] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.core.CorePlugin
+[18Apr.2026 11:12:27.183] [Worker-ResourceReload-1/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.access.AccessibilityPlugin
+[18Apr.2026 11:12:28.479] [Render thread/WARN] [net.neoforged.fml.DeferredWorkQueue/LOADING]: Mod 'journeymap' took 1.255 s to run a deferred task.
+[18Apr.2026 11:12:28.653] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[18Apr.2026 11:12:28.653] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18Apr.2026 11:12:28.728] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Lautsprecher (Realtek(R) Audio)
+[18Apr.2026 11:12:28.729] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[18Apr.2026 11:12:28.730] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/]: [FANCYMENU] Reloading AudioResourceHandler after Minecraft SoundEngine reload..
+[18Apr.2026 11:12:28.832] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[18Apr.2026 11:12:28.898] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[18Apr.2026 11:12:28.899] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[18Apr.2026 11:12:28.900] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[18Apr.2026 11:12:28.901] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[18Apr.2026 11:12:28.904] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[18Apr.2026 11:12:28.905] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[18Apr.2026 11:12:28.906] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[18Apr.2026 11:12:28.907] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[18Apr.2026 11:12:28.984] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[18Apr.2026 11:12:28.986] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[18Apr.2026 11:12:28.986] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[18Apr.2026 11:12:28.987] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[18Apr.2026 11:12:28.987] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[18Apr.2026 11:12:29.003] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[18Apr.2026 11:12:29.037] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader journeymap:sepia_3 could not find uniform named ColorModulator in the specified shader program.
+[18Apr.2026 11:12:29.037] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader journeymap:sepia_2 could not find uniform named ColorModulator in the specified shader program.
+[18Apr.2026 11:12:29.038] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader journeymap:sepia_1 could not find uniform named ColorModulator in the specified shader program.
+[18Apr.2026 11:12:29.069] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[18Apr.2026 11:12:29.075] [Render thread/INFO] [xaero.lib.XaeroLib/]: Successfully reloaded the XaeroLib shaders!
+[18Apr.2026 11:12:29.075] [Render thread/INFO] [net.neoforged.neoforge.client.entity.animation.json.AnimationLoader/]: Loaded 0 entity animations
+[18Apr.2026 11:12:29.100] [Render thread/INFO] [flywheel/backend/shaders/]: Loaded 77 shader sources in 20,613 ms
+[18Apr.2026 11:12:29.121] [Render thread/INFO] [com.simibubi.create.Create/]: Loaded 58 train hat configurations.
+[18Apr.2026 11:12:29.148] [Render thread/INFO] [de.keksuccino.fancymenu.util.resource.ResourceHandlers/]: [FANCYMENU] Reloading resources..
+[18Apr.2026 11:12:29.150] [Render thread/INFO] [de.keksuccino.fancymenu.util.resource.preload.ResourcePreLoader/]: [FANCYMENU] Pre-loading resources..
+[18Apr.2026 11:12:29.160] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] Minecraft resource reload: FINISHED
+[18Apr.2026 11:12:29.170] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: title_screen
+[18Apr.2026 11:12:29.177] [Render thread/INFO] [Iris/]: Creating pipeline for dimension minecraft:overworld
+[18Apr.2026 11:12:31.172] [Render thread/WARN] [ModernFix/]: Game took 28.475 seconds to start
+[18Apr.2026 11:12:48.874] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: select_world_screen
+[18Apr.2026 11:12:51.595] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: journeymap.client.ui.dialog.DeleteWorldConfirmScreen
+[18Apr.2026 11:12:52.071] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: progress_screen
+[18Apr.2026 11:12:52.079] [Render thread/INFO] [net.minecraft.world.level.storage.LevelStorageSource/]: Deleting level InselOverworld
+[18Apr.2026 11:12:52.079] [Render thread/INFO] [net.minecraft.world.level.storage.LevelStorageSource/]: Attempt 1...
+[18Apr.2026 11:12:52.288] [Render thread/INFO] [xaero.map.WorldMap/]: Deleted world map cache at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\xaero\world-map\InselOverworld
+[18Apr.2026 11:12:52.289] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: generic_dirt_message_screen
+[18Apr.2026 11:12:52.294] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:12:52.329] [Render thread/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method elementOrTag in modernfix-modernfix.mixins.json:perf.tag_id_caching.TagEntryMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[18Apr.2026 11:12:52.479] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:12:52.481] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:12:52.512] [Render thread/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack create:dynamic_data, loading it automatically
+[18Apr.2026 11:12:52.523] [Render thread/INFO] [KubeJS Server/]: server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[18Apr.2026 11:12:52.524] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:main.js in 0.001 s
+[18Apr.2026 11:12:52.538] [Render thread/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.02 s with 0 errors and 0 warnings
+[18Apr.2026 11:12:53.780] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2891 recipes
+[18Apr.2026 11:12:53.943] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2562 advancements
+[18Apr.2026 11:12:54.114] [Render thread/WARN] [ModernFix/]: Initial datapack load took 1.618 s
+[18Apr.2026 11:12:54.143] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: create_world_screen
+[18Apr.2026 11:12:55.486] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:12:55.631] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:12:55.632] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:12:55.637] [Render thread/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack create:dynamic_data, loading it automatically
+[18Apr.2026 11:12:55.643] [Render thread/INFO] [KubeJS Server/]: server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[18Apr.2026 11:12:55.644] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:main.js in 0.001 s
+[18Apr.2026 11:12:55.644] [Render thread/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.006 s with 0 errors and 0 warnings
+[18Apr.2026 11:12:56.276] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2891 recipes
+[18Apr.2026 11:12:56.384] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2562 advancements
+[18Apr.2026 11:12:56.446] [Render thread/WARN] [ModernFix/]: Initial datapack load took 812.5 ms
+[18Apr.2026 11:13:00.092] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:13:00.229] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:13:00.231] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:13:00.242] [Render thread/INFO] [KubeJS Server/]: server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[18Apr.2026 11:13:00.242] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:main.js in 0.0 s
+[18Apr.2026 11:13:00.243] [Render thread/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.005 s with 0 errors and 0 warnings
+[18Apr.2026 11:13:00.245] [Render thread/WARN] [KubeJS Server/]: Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[18Apr.2026 11:13:00.245] [Render thread/WARN] [KubeJS Server/]: You can still see the full log (including past reloads) in your latest.log file.
+[18Apr.2026 11:13:00.349] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.1
+[18Apr.2026 11:13:00.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Apr.2026 11:13:00.483] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: level_loading_screen
+[18Apr.2026 11:13:00.725] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-modernfix.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[18Apr.2026 11:13:01.190] [Server thread/INFO] [STDOUT/]: [com.snoopypupser.oneblockisland.OneblockIslandPlacer:onWorldLoad:72]: [OneblockIsland] Succesfully placed!
+[18Apr.2026 11:13:01.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Apr.2026 11:13:01.234] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[18Apr.2026 11:13:01.266] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[18Apr.2026 11:13:01.300] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[18Apr.2026 11:13:01.301] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 70 ms
+[18Apr.2026 11:13:01.345] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 55952
+[18Apr.2026 11:13:01.396] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[18Apr.2026 11:13:01.397] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[18Apr.2026 11:13:01.693] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:13:01.831] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:13:01.833] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:13:02.122] [Server thread/INFO] [STDOUT/]: [net.caffeinemc.mods.lithium.common.block.TrackedBlockStatePredicate:<clinit>:13]: Lithium Cached BlockState Flags are disabled!
+[18Apr.2026 11:13:02.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Snoopypupser[local:E:4fd7c80d] logged in with entity id 5 at (9.5, 89.0, 3.5)
+[18Apr.2026 11:13:02.168] [Render thread/INFO] [xaero.map.WorldMap/]: Fullscreen map required item set to nothing.
+[18Apr.2026 11:13:02.177] [Render thread/INFO] [xaero.map.WorldMap/]: New world map session initialized!
+[18Apr.2026 11:13:02.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snoopypupser joined the game
+[18Apr.2026 11:13:02.216] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: receiving_level_screen
+[18Apr.2026 11:13:02.220] [Render thread/INFO] [Iris/]: Reloading pipeline on dimension change: minecraft:overworld => minecraft:overworld
+[18Apr.2026 11:13:02.221] [Render thread/INFO] [Iris/]: Destroying pipeline minecraft:overworld
+[18Apr.2026 11:13:02.221] [Render thread/INFO] [Iris/]: Creating pipeline for dimension minecraft:overworld
+[18Apr.2026 11:13:02.289] [Render thread/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/LightDataAccess (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.LightDataAccess)
+[18Apr.2026 11:13:02.292] [Render thread/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/data/ArrayLightDataCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.data.ArrayLightDataCache)
+[18Apr.2026 11:13:02.307] [Render thread/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/model/light/flat/FlatLightPipeline (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline)
+[18Apr.2026 11:13:02.348] [Render thread/INFO] [ChunkBuilder/]: Started 6 worker threads
+[18Apr.2026 11:13:02.405] [Render thread/INFO] [voicechat/]: [voicechat] Sending secret request to the server
+[18Apr.2026 11:13:02.407] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Snoopypupser (20)
+[18Apr.2026 11:13:02.410] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Snoopypupser
+[18Apr.2026 11:13:02.448] [Render thread/INFO] [flywheel/]: Started 6 worker threads
+[18Apr.2026 11:13:02.478] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[18Apr.2026 11:13:02.483] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[18Apr.2026 11:13:02.487] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 3.521 milliseconds
+[18Apr.2026 11:13:02.487] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[18Apr.2026 11:13:02.489] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 2.543 milliseconds
+[18Apr.2026 11:13:02.491] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[18Apr.2026 11:13:02.587] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. K.KubeJS
+[18Apr.2026 11:13:02.668] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 175.7 milliseconds
+[18Apr.2026 11:13:02.668] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 176.5 milliseconds
+[18Apr.2026 11:13:02.669] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[18Apr.2026 11:13:02.672] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 3.469 milliseconds
+[18Apr.2026 11:13:02.673] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[18Apr.2026 11:13:02.674] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 1.028 milliseconds
+[18Apr.2026 11:13:02.685] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Mod Info...
+[18Apr.2026 11:13:02.687] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Mod Info took 544.7 microseconds
+[18Apr.2026 11:13:02.700] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[18Apr.2026 11:13:02.735] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: create:jei_plugin took 23.99 milliseconds
+[18Apr.2026 11:13:02.736] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 34.94 milliseconds
+[18Apr.2026 11:13:02.736] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[18Apr.2026 11:13:02.738] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 1.859 milliseconds
+[18Apr.2026 11:13:02.739] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[18Apr.2026 11:13:02.741] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 1.945 milliseconds
+[18Apr.2026 11:13:02.741] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[18Apr.2026 11:13:02.752] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 10.47 milliseconds
+[18Apr.2026 11:13:02.754] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[18Apr.2026 11:13:02.755] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 625.8 microseconds
+[18Apr.2026 11:13:02.755] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[18Apr.2026 11:13:03.009] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 254.1 milliseconds
+[18Apr.2026 11:13:03.032] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: chipped:jei took 20.93 milliseconds
+[18Apr.2026 11:13:03.151] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 118.5 milliseconds
+[18Apr.2026 11:13:03.152] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 396.5 milliseconds
+[18Apr.2026 11:13:03.161] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[18Apr.2026 11:13:03.165] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 3.885 milliseconds
+[18Apr.2026 11:13:03.168] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[18Apr.2026 11:13:03.170] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[18Apr.2026 11:13:03.177] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 6.723 milliseconds
+[18Apr.2026 11:13:03.180] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[18Apr.2026 11:13:03.181] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[18Apr.2026 11:13:03.182] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[18Apr.2026 11:13:03.229] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 47.32 milliseconds
+[18Apr.2026 11:13:03.230] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[18Apr.2026 11:13:03.260] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 9399 ingredients
+[18Apr.2026 11:13:03.933] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 9399 ingredients
+[18Apr.2026 11:13:03.934] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 703.5 milliseconds
+[18Apr.2026 11:13:04.010] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:neoforge_gui took 829.9 milliseconds
+[18Apr.2026 11:13:04.010] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 830.7 milliseconds
+[18Apr.2026 11:13:04.011] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 843.3 milliseconds
+[18Apr.2026 11:13:04.011] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[18Apr.2026 11:13:04.012] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 775.3 microseconds
+[18Apr.2026 11:13:04.012] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 1.534 seconds
+[18Apr.2026 11:13:04.027] [Render thread/INFO] [snownee.jade.Jade/]: Received config from the server: 
+[18Apr.2026 11:13:04.087] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: me.srrapero720.watervision.client.screens.VisionScreen
+[18Apr.2026 11:13:04.090] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:13:04.092] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:13:04.094] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:13:04.096] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:13:04.096] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:13:04.097] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:13:04.097] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:13:04.098] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:13:04.109] [Render thread/INFO] [voicechat/]: [voicechat] Received secret
+[18Apr.2026 11:13:04.110] [Render thread/INFO] [voicechat/]: [voicechat] Connecting to voice chat server: '127.0.0.1:55952'
+[18Apr.2026 11:13:04.113] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[18Apr.2026 11:13:04.117] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [Simple Voice Chat] Press V to set up
+[18Apr.2026 11:13:04.120] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 61693b76-d918-4519-93f3-195d7da0c4c6
+[18Apr.2026 11:13:04.121] [VoiceChatConnectionThread/INFO] [voicechat/]: [voicechat] Server acknowledged authentication
+[18Apr.2026 11:13:04.122] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2 advancements
+[18Apr.2026 11:13:04.139] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: Snoopypupser
+[18Apr.2026 11:13:04.467] [Render thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ClientSideHandshakePacketLogic/]: [FANCYMENU] Connected to a server with FancyMenu installed: local_lan_world
+[18Apr.2026 11:13:04.701] [Render thread/WARN] [ModernFix/]: Time from main menu to in-game was 4.4551754 seconds
+[18Apr.2026 11:13:04.701] [Render thread/WARN] [ModernFix/]: Total time to load game and open world was 32.930176 seconds
+[18Apr.2026 11:13:05.120] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to validate voice chat connection
+[18Apr.2026 11:13:05.121] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 61693b76-d918-4519-93f3-195d7da0c4c6
+[18Apr.2026 11:13:05.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Snoopypupser (61693b76-d918-4519-93f3-195d7da0c4c6) successfully connected to voice chat
+[18Apr.2026 11:13:05.123] [VoiceChatConnectionThread/INFO] [voicechat/]: [voicechat] Server acknowledged connection check
+[18Apr.2026 11:13:05.580] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[18Apr.2026 11:13:05.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18Apr.2026 11:13:05.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18Apr.2026 11:13:05.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18Apr.2026 11:13:06.684] [Render thread/INFO] [xaero.map.WorldMap/]: Exception when loading copycats:copycat_stairs texture, using material colour.
+[18Apr.2026 11:13:06.685] [Render thread/INFO] [xaero.map.WorldMap/]: No texture minecraft:textures/missingno.png
+[18Apr.2026 11:13:30.367] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] JourneyMap: Press [J]
+[18Apr.2026 11:14:06.367] [Server thread/INFO] [net.oneblock.oneblockmod.OneBlockMod/]: [OneBlockMod] First break at BlockPos{x=21, y=90, z=10}!
+[18Apr.2026 11:14:06.400] [Server thread/INFO] [net.oneblock.oneblockmod.OneBlockMod/]: [OneBlockMod] Block pool built with 6380 blocks.
+[18Apr.2026 11:14:27.216] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: chat_screen
+[18Apr.2026 11:14:36.413] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: pause_screen
+[18Apr.2026 11:14:36.440] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[18Apr.2026 11:14:36.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18Apr.2026 11:14:36.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18Apr.2026 11:14:36.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18Apr.2026 11:14:36.913] [Render thread/INFO] [xaero.map.WorldMap/]: Finalizing world map session...
+[18Apr.2026 11:14:36.954] [Thread-11/INFO] [xaero.map.WorldMap/]: World map cleaned normally!
+[18Apr.2026 11:14:37.017] [Render thread/INFO] [xaero.map.WorldMap/]: World map session finalized.
+[18Apr.2026 11:14:37.018] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[18Apr.2026 11:14:37.018] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[18Apr.2026 11:14:37.019] [Render thread/INFO] [mezz.jei.neoforge.plugins.neoforge.NeoForgeGuiPlugin/]: Stopping JEI GUI
+[18Apr.2026 11:14:37.022] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 3.562 milliseconds
+[18Apr.2026 11:14:37.236] [Render thread/INFO] [voicechat/]: [voicechat] Clearing audio channels
+[18Apr.2026 11:14:37.240] [Render thread/INFO] [voicechat/]: [voicechat] Stopping microphone thread
+[18Apr.2026 11:14:37.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Snoopypupser lost connection: Disconnected
+[18Apr.2026 11:14:37.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snoopypupser left the game
+[18Apr.2026 11:14:37.243] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Snoopypupser
+[18Apr.2026 11:14:37.247] [Render thread/INFO] [voicechat/]: [voicechat] Disconnecting voicechat
+[18Apr.2026 11:14:37.267] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[18Apr.2026 11:14:37.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr.2026 11:14:37.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr.2026 11:14:37.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr.2026 11:14:37.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18Apr.2026 11:14:37.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18Apr.2026 11:14:37.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18Apr.2026 11:14:37.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18Apr.2026 11:14:37.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr.2026 11:14:37.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr.2026 11:14:37.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Apr.2026 11:14:37.698] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[18Apr.2026 11:14:39.383] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:14:39.526] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:14:39.527] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:14:39.540] [Render thread/INFO] [KubeJS Server/]: server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[18Apr.2026 11:14:39.541] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:main.js in 0.001 s
+[18Apr.2026 11:14:39.541] [Render thread/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.006 s with 0 errors and 0 warnings
+[18Apr.2026 11:14:40.112] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2891 recipes
+[18Apr.2026 11:14:40.229] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2562 advancements
+[18Apr.2026 11:14:40.343] [Render thread/WARN] [ModernFix/]: Initial datapack load took 816.0 ms
+[18Apr.2026 11:14:40.381] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.1
+[18Apr.2026 11:14:40.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Apr.2026 11:14:40.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Apr.2026 11:14:40.485] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[18Apr.2026 11:14:40.560] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[18Apr.2026 11:14:40.563] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Apr.2026 11:14:40.564] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 75 ms
+[18Apr.2026 11:14:40.601] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[18Apr.2026 11:14:40.601] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 57146
+[18Apr.2026 11:14:40.601] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[18Apr.2026 11:14:40.719] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:14:40.895] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:14:40.896] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:14:41.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Snoopypupser[local:E:d1cfaf16] logged in with entity id 16 at (21.572286389081725, 89.0, 9.699999988079071)
+[18Apr.2026 11:14:41.020] [Render thread/INFO] [xaero.map.WorldMap/]: Fullscreen map required item set to nothing.
+[18Apr.2026 11:14:41.023] [Render thread/INFO] [xaero.map.WorldMap/]: New world map session initialized!
+[18Apr.2026 11:14:41.037] [Render thread/INFO] [Iris/]: Reloading pipeline on dimension change: minecraft:overworld => minecraft:overworld
+[18Apr.2026 11:14:41.037] [Render thread/INFO] [Iris/]: Destroying pipeline minecraft:overworld
+[18Apr.2026 11:14:41.038] [Render thread/INFO] [Iris/]: Creating pipeline for dimension minecraft:overworld
+[18Apr.2026 11:14:41.042] [Render thread/INFO] [ChunkBuilder/]: Started 6 worker threads
+[18Apr.2026 11:14:41.044] [Render thread/INFO] [voicechat/]: [voicechat] Sending secret request to the server
+[18Apr.2026 11:14:41.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snoopypupser joined the game
+[18Apr.2026 11:14:41.079] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Snoopypupser (20)
+[18Apr.2026 11:14:41.079] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Snoopypupser
+[18Apr.2026 11:14:41.096] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: Snoopypupser
+[18Apr.2026 11:14:41.127] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[18Apr.2026 11:14:41.127] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[18Apr.2026 11:14:41.128] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 614.6 microseconds
+[18Apr.2026 11:14:41.128] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[18Apr.2026 11:14:41.129] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 633.1 microseconds
+[18Apr.2026 11:14:41.129] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[18Apr.2026 11:14:41.167] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. K.KubeJS
+[18Apr.2026 11:14:41.251] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 122.1 milliseconds
+[18Apr.2026 11:14:41.252] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 122.9 milliseconds
+[18Apr.2026 11:14:41.252] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[18Apr.2026 11:14:41.253] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 1.032 milliseconds
+[18Apr.2026 11:14:41.253] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[18Apr.2026 11:14:41.254] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 539.6 microseconds
+[18Apr.2026 11:14:41.255] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Mod Info...
+[18Apr.2026 11:14:41.255] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Mod Info took 568.6 microseconds
+[18Apr.2026 11:14:41.255] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[18Apr.2026 11:14:41.258] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 1.143 milliseconds
+[18Apr.2026 11:14:41.258] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[18Apr.2026 11:14:41.258] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 484.9 microseconds
+[18Apr.2026 11:14:41.259] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[18Apr.2026 11:14:41.259] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 864.7 microseconds
+[18Apr.2026 11:14:41.260] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[18Apr.2026 11:14:41.260] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 555.5 microseconds
+[18Apr.2026 11:14:41.260] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[18Apr.2026 11:14:41.261] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 513.5 microseconds
+[18Apr.2026 11:14:41.261] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[18Apr.2026 11:14:41.384] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 122.3 milliseconds
+[18Apr.2026 11:14:41.397] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: chipped:jei took 12.25 milliseconds
+[18Apr.2026 11:14:41.469] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 72.75 milliseconds
+[18Apr.2026 11:14:41.470] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 208.8 milliseconds
+[18Apr.2026 11:14:41.473] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[18Apr.2026 11:14:41.474] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 524.6 microseconds
+[18Apr.2026 11:14:41.474] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[18Apr.2026 11:14:41.474] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[18Apr.2026 11:14:41.475] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 457.1 microseconds
+[18Apr.2026 11:14:41.475] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[18Apr.2026 11:14:41.475] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[18Apr.2026 11:14:41.476] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[18Apr.2026 11:14:41.509] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 32.91 milliseconds
+[18Apr.2026 11:14:41.509] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[18Apr.2026 11:14:41.515] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 9399 ingredients
+[18Apr.2026 11:14:41.973] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 9399 ingredients
+[18Apr.2026 11:14:41.973] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 465.0 milliseconds
+[18Apr.2026 11:14:41.984] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:neoforge_gui took 508.6 milliseconds
+[18Apr.2026 11:14:41.984] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 509.2 milliseconds
+[18Apr.2026 11:14:41.985] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 510.2 milliseconds
+[18Apr.2026 11:14:41.985] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[18Apr.2026 11:14:41.985] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 545.5 microseconds
+[18Apr.2026 11:14:41.985] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 858.8 milliseconds
+[18Apr.2026 11:14:41.994] [Render thread/INFO] [snownee.jade.Jade/]: Received config from the server: 
+[18Apr.2026 11:14:41.998] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:41.998] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:41.998] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:41.999] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:41.999] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:42.000] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:42.000] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:42.000] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:42.003] [Render thread/INFO] [voicechat/]: [voicechat] Received secret
+[18Apr.2026 11:14:42.003] [Render thread/INFO] [voicechat/]: [voicechat] Connecting to voice chat server: '127.0.0.1:57146'
+[18Apr.2026 11:14:42.005] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[18Apr.2026 11:14:42.005] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [Simple Voice Chat] Press V to set up
+[18Apr.2026 11:14:42.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 61693b76-d918-4519-93f3-195d7da0c4c6
+[18Apr.2026 11:14:42.007] [VoiceChatConnectionThread/INFO] [voicechat/]: [voicechat] Server acknowledged authentication
+[18Apr.2026 11:14:42.008] [Render thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ClientSideHandshakePacketLogic/]: [FANCYMENU] Connected to a server with FancyMenu installed: local_lan_world
+[18Apr.2026 11:14:42.022] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2 advancements
+[18Apr.2026 11:14:42.155] [Render thread/WARN] [ModernFix/]: Time from main menu to in-game was 1.8067044 seconds
+[18Apr.2026 11:14:42.155] [Render thread/WARN] [ModernFix/]: Total time to load game and open world was 30.281704 seconds
+[18Apr.2026 11:14:42.662] [Render thread/INFO] [xaero.map.WorldMap/]: Exception when loading copycats:copycat_stairs texture, using material colour.
+[18Apr.2026 11:14:42.662] [Render thread/INFO] [xaero.map.WorldMap/]: No texture minecraft:textures/missingno.png
+[18Apr.2026 11:14:43.007] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to validate voice chat connection
+[18Apr.2026 11:14:43.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 61693b76-d918-4519-93f3-195d7da0c4c6
+[18Apr.2026 11:14:43.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Snoopypupser (61693b76-d918-4519-93f3-195d7da0c4c6) successfully connected to voice chat
+[18Apr.2026 11:14:43.008] [VoiceChatConnectionThread/INFO] [voicechat/]: [voicechat] Server acknowledged connection check
+[18Apr.2026 11:14:43.398] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[18Apr.2026 11:14:43.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18Apr.2026 11:14:43.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18Apr.2026 11:14:43.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18Apr.2026 11:14:43.830] [Render thread/INFO] [xaero.map.WorldMap/]: Finalizing world map session...
+[18Apr.2026 11:14:43.871] [Thread-11/INFO] [xaero.map.WorldMap/]: World map cleaned normally!
+[18Apr.2026 11:14:43.934] [Render thread/INFO] [xaero.map.WorldMap/]: World map session finalized.
+[18Apr.2026 11:14:43.934] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[18Apr.2026 11:14:43.934] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[18Apr.2026 11:14:43.935] [Render thread/INFO] [mezz.jei.neoforge.plugins.neoforge.NeoForgeGuiPlugin/]: Stopping JEI GUI
+[18Apr.2026 11:14:43.935] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 855.9 microseconds
+[18Apr.2026 11:14:44.041] [Render thread/INFO] [voicechat/]: [voicechat] Clearing audio channels
+[18Apr.2026 11:14:44.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Snoopypupser lost connection: Disconnected
+[18Apr.2026 11:14:44.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snoopypupser left the game
+[18Apr.2026 11:14:44.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Snoopypupser
+[18Apr.2026 11:14:44.051] [Render thread/INFO] [voicechat/]: [voicechat] Stopping microphone thread
+[18Apr.2026 11:14:44.060] [Render thread/INFO] [voicechat/]: [voicechat] Disconnecting voicechat
+[18Apr.2026 11:14:44.102] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[18Apr.2026 11:14:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr.2026 11:14:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr.2026 11:14:44.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr.2026 11:14:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18Apr.2026 11:14:44.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18Apr.2026 11:14:44.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18Apr.2026 11:14:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18Apr.2026 11:14:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr.2026 11:14:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr.2026 11:14:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Apr.2026 11:14:44.264] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[18Apr.2026 11:14:46.775] [Render thread/INFO] [net.minecraft.world.level.storage.LevelStorageSource/]: Deleting level New World
+[18Apr.2026 11:14:46.775] [Render thread/INFO] [net.minecraft.world.level.storage.LevelStorageSource/]: Attempt 1...
+[18Apr.2026 11:14:46.969] [Render thread/INFO] [xaero.map.WorldMap/]: Deleted world map cache at C:\Users\broec\AppData\Roaming\ModrinthApp\profiles\Ultimate Create 8\xaero\world-map\New World
+[18Apr.2026 11:14:46.973] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:14:47.111] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:14:47.112] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:14:47.117] [Render thread/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack create:dynamic_data, loading it automatically
+[18Apr.2026 11:14:47.122] [Render thread/INFO] [KubeJS Server/]: server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[18Apr.2026 11:14:47.122] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:main.js in 0.0 s
+[18Apr.2026 11:14:47.124] [Render thread/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.005 s with 0 errors and 0 warnings
+[18Apr.2026 11:14:47.634] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2891 recipes
+[18Apr.2026 11:14:47.733] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2562 advancements
+[18Apr.2026 11:14:47.783] [Render thread/WARN] [ModernFix/]: Initial datapack load took 670.2 ms
+[18Apr.2026 11:14:48.822] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:14:48.961] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:14:48.962] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:14:48.967] [Render thread/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack create:dynamic_data, loading it automatically
+[18Apr.2026 11:14:48.971] [Render thread/INFO] [KubeJS Server/]: server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[18Apr.2026 11:14:48.971] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:main.js in 0.001 s
+[18Apr.2026 11:14:48.971] [Render thread/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.004 s with 0 errors and 0 warnings
+[18Apr.2026 11:14:49.426] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2891 recipes
+[18Apr.2026 11:14:49.485] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2562 advancements
+[18Apr.2026 11:14:49.534] [Render thread/WARN] [ModernFix/]: Initial datapack load took 572.0 ms
+[18Apr.2026 11:14:52.417] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:14:52.595] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:14:52.597] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:14:52.610] [Render thread/INFO] [KubeJS Server/]: server_scripts:main.js#2: Hello, World! (Loaded server example script)
+[18Apr.2026 11:14:52.611] [Render thread/INFO] [KubeJS Server/]: Loaded script server_scripts:main.js in 0.0 s
+[18Apr.2026 11:14:52.611] [Render thread/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.005 s with 0 errors and 0 warnings
+[18Apr.2026 11:14:52.614] [Render thread/WARN] [KubeJS Server/]: Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[18Apr.2026 11:14:52.614] [Render thread/WARN] [KubeJS Server/]: You can still see the full log (including past reloads) in your latest.log file.
+[18Apr.2026 11:14:52.639] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.1
+[18Apr.2026 11:14:52.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Apr.2026 11:14:52.833] [Server thread/INFO] [STDOUT/]: [com.snoopypupser.oneblockisland.OneblockIslandPlacer:onWorldLoad:72]: [OneblockIsland] Succesfully placed!
+[18Apr.2026 11:14:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Apr.2026 11:14:52.848] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[18Apr.2026 11:14:52.874] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[18Apr.2026 11:14:52.879] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[18Apr.2026 11:14:52.892] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[18Apr.2026 11:14:52.892] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 57052
+[18Apr.2026 11:14:52.893] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 39 ms
+[18Apr.2026 11:14:52.893] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[18Apr.2026 11:14:53.024] [Render thread/INFO] [chloride/]: Registering CHLORIDE built-in packs
+[18Apr.2026 11:14:53.159] [Render thread/INFO] [com.simibubi.create.Create/]: Created 177 recipes which will be injected into the game
+[18Apr.2026 11:14:53.160] [Render thread/INFO] [com.simibubi.create.Create/]: Created 12 tags which will be injected into the game
+[18Apr.2026 11:14:53.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Snoopypupser[local:E:ca2709f9] logged in with entity id 23 at (9.5, 89.0, 3.5)
+[18Apr.2026 11:14:53.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snoopypupser joined the game
+[18Apr.2026 11:14:53.244] [Render thread/INFO] [xaero.map.WorldMap/]: Fullscreen map required item set to nothing.
+[18Apr.2026 11:14:53.245] [Render thread/INFO] [xaero.map.WorldMap/]: New world map session initialized!
+[18Apr.2026 11:14:53.260] [Render thread/INFO] [Iris/]: Reloading pipeline on dimension change: minecraft:overworld => minecraft:overworld
+[18Apr.2026 11:14:53.261] [Render thread/INFO] [Iris/]: Destroying pipeline minecraft:overworld
+[18Apr.2026 11:14:53.261] [Render thread/INFO] [Iris/]: Creating pipeline for dimension minecraft:overworld
+[18Apr.2026 11:14:53.264] [Render thread/INFO] [ChunkBuilder/]: Started 6 worker threads
+[18Apr.2026 11:14:53.265] [Render thread/INFO] [voicechat/]: [voicechat] Sending secret request to the server
+[18Apr.2026 11:14:53.269] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Snoopypupser (20)
+[18Apr.2026 11:14:53.269] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Snoopypupser
+[18Apr.2026 11:14:53.291] [Server thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ServerSideHandshakePacketLogic/]: [FANCYMENU] A client with FancyMenu installed joined the server: Snoopypupser
+[18Apr.2026 11:14:53.298] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[18Apr.2026 11:14:53.299] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[18Apr.2026 11:14:53.299] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 491.3 microseconds
+[18Apr.2026 11:14:53.299] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[18Apr.2026 11:14:53.300] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 484.8 microseconds
+[18Apr.2026 11:14:53.300] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[18Apr.2026 11:14:53.322] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. K.KubeJS
+[18Apr.2026 11:14:53.356] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 55.65 milliseconds
+[18Apr.2026 11:14:53.357] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 56.31 milliseconds
+[18Apr.2026 11:14:53.357] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
+[18Apr.2026 11:14:53.357] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 773.6 microseconds
+[18Apr.2026 11:14:53.358] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
+[18Apr.2026 11:14:53.358] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 546.5 microseconds
+[18Apr.2026 11:14:53.359] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Mod Info...
+[18Apr.2026 11:14:53.360] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Mod Info took 448.2 microseconds
+[18Apr.2026 11:14:53.360] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[18Apr.2026 11:14:53.361] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 1.189 milliseconds
+[18Apr.2026 11:14:53.362] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[18Apr.2026 11:14:53.362] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 505.7 microseconds
+[18Apr.2026 11:14:53.362] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[18Apr.2026 11:14:53.363] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 460.0 microseconds
+[18Apr.2026 11:14:53.363] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[18Apr.2026 11:14:53.364] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 280.6 microseconds
+[18Apr.2026 11:14:53.364] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[18Apr.2026 11:14:53.364] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 314.2 microseconds
+[18Apr.2026 11:14:53.364] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[18Apr.2026 11:14:53.452] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 87.53 milliseconds
+[18Apr.2026 11:14:53.504] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: create:jei_plugin took 46.85 milliseconds
+[18Apr.2026 11:14:53.505] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 140.6 milliseconds
+[18Apr.2026 11:14:53.509] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[18Apr.2026 11:14:53.510] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 606.2 microseconds
+[18Apr.2026 11:14:53.510] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[18Apr.2026 11:14:53.511] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[18Apr.2026 11:14:53.511] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 682.9 microseconds
+[18Apr.2026 11:14:53.512] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[18Apr.2026 11:14:53.512] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[18Apr.2026 11:14:53.512] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[18Apr.2026 11:14:53.538] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 25.68 milliseconds
+[18Apr.2026 11:14:53.538] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[18Apr.2026 11:14:53.543] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 9399 ingredients
+[18Apr.2026 11:14:53.828] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 9399 ingredients
+[18Apr.2026 11:14:53.828] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 290.5 milliseconds
+[18Apr.2026 11:14:53.835] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:neoforge_gui took 324.1 milliseconds
+[18Apr.2026 11:14:53.837] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 324.9 milliseconds
+[18Apr.2026 11:14:53.837] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 326.3 milliseconds
+[18Apr.2026 11:14:53.837] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[18Apr.2026 11:14:53.838] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 572.8 microseconds
+[18Apr.2026 11:14:53.838] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 539.3 milliseconds
+[18Apr.2026 11:14:53.842] [Render thread/INFO] [snownee.jade.Jade/]: Received config from the server: 
+[18Apr.2026 11:14:53.851] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:53.853] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:53.853] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:53.854] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:53.854] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:53.855] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being removed at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:53.855] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 27 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:53.856] [Render thread/INFO] [mezz.jei.library.ingredients.IngredientManager/]: Ingredients are being added at runtime: 18 net.minecraft.world.item.ItemStack
+[18Apr.2026 11:14:53.857] [Render thread/INFO] [voicechat/]: [voicechat] Received secret
+[18Apr.2026 11:14:53.857] [Render thread/INFO] [voicechat/]: [voicechat] Connecting to voice chat server: '127.0.0.1:57052'
+[18Apr.2026 11:14:53.858] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[18Apr.2026 11:14:53.859] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [Simple Voice Chat] Press V to set up
+[18Apr.2026 11:14:53.862] [Render thread/INFO] [de.keksuccino.fancymenu.networking.packets.handshake.ClientSideHandshakePacketLogic/]: [FANCYMENU] Connected to a server with FancyMenu installed: local_lan_world
+[18Apr.2026 11:14:54.121] [Render thread/WARN] [ModernFix/]: Time from main menu to in-game was 1.5074418 seconds
+[18Apr.2026 11:14:54.121] [Render thread/WARN] [ModernFix/]: Total time to load game and open world was 29.982443 seconds
+[18Apr.2026 11:14:54.860] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[18Apr.2026 11:14:54.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 61693b76-d918-4519-93f3-195d7da0c4c6
+[18Apr.2026 11:14:54.861] [VoiceChatConnectionThread/INFO] [voicechat/]: [voicechat] Server acknowledged authentication
+[18Apr.2026 11:14:55.861] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to validate voice chat connection
+[18Apr.2026 11:14:55.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 61693b76-d918-4519-93f3-195d7da0c4c6
+[18Apr.2026 11:14:55.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Snoopypupser (61693b76-d918-4519-93f3-195d7da0c4c6) successfully connected to voice chat
+[18Apr.2026 11:14:55.862] [VoiceChatConnectionThread/INFO] [voicechat/]: [voicechat] Server acknowledged connection check
+[18Apr.2026 11:15:19.501] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2 advancements
+[18Apr.2026 11:15:20.310] [Render thread/INFO] [xaero.map.WorldMap/]: Exception when loading copycats:copycat_stairs texture, using material colour.
+[18Apr.2026 11:15:20.311] [Render thread/INFO] [xaero.map.WorldMap/]: No texture minecraft:textures/missingno.png
+[18Apr.2026 11:15:28.391] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[18Apr.2026 11:15:28.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18Apr.2026 11:15:28.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18Apr.2026 11:15:28.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18Apr.2026 11:15:29.392] [Render thread/INFO] [de.keksuccino.fancymenu.customization.layer.ScreenCustomizationLayerHandler/]: [FANCYMENU] ScreenCustomizationLayer registered: inventory_screen
+[18Apr.2026 11:15:30.562] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] [Debug]: Unable to open game mode switcher; no permission
+[18Apr.2026 11:15:34.740] [CullThread/INFO] [STDOUT/]: [dev.tr7zw.entityculling.CullTask:run:89]: Shutting down culling task!
+[18Apr.2026 11:15:34.745] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[18Apr.2026 11:15:34.747] [Render thread/INFO] [xaero.map.WorldMap/]: Finalizing world map session...
+[18Apr.2026 11:15:34.789] [Thread-11/INFO] [xaero.map.WorldMap/]: World map cleaned normally!
+[18Apr.2026 11:15:34.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Snoopypupser lost connection: Disconnected
+[18Apr.2026 11:15:34.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Snoopypupser left the game
+[18Apr.2026 11:15:34.794] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Snoopypupser
+[18Apr.2026 11:15:34.811] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[18Apr.2026 11:15:34.830] [Render thread/INFO] [xaero.map.WorldMap/]: World map session finalized.
+[18Apr.2026 11:15:34.830] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[18Apr.2026 11:15:34.830] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[18Apr.2026 11:15:34.831] [Render thread/INFO] [mezz.jei.neoforge.plugins.neoforge.NeoForgeGuiPlugin/]: Stopping JEI GUI
+[18Apr.2026 11:15:34.831] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 904.0 microseconds
+[18Apr.2026 11:15:34.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr.2026 11:15:34.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr.2026 11:15:34.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr.2026 11:15:34.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18Apr.2026 11:15:34.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18Apr.2026 11:15:34.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18Apr.2026 11:15:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[18Apr.2026 11:15:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr.2026 11:15:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr.2026 11:15:35.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Apr.2026 11:15:35.221] [Render thread/INFO] [voicechat/]: [voicechat] Clearing audio channels
+[18Apr.2026 11:15:35.230] [Render thread/INFO] [voicechat/]: [voicechat] Stopping microphone thread
+[18Apr.2026 11:15:35.240] [Render thread/INFO] [voicechat/]: [voicechat] Disconnecting voicechat
+[18Apr.2026 11:15:35.254] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[18Apr.2026 11:15:35.351] [Thread-4/INFO] [watermedia/Bootstrap]: Shutting down...
+[18Apr.2026 11:15:35.352] [Thread-4/INFO] [watermedia/Bootstrap]: Releasing CacheAPI
