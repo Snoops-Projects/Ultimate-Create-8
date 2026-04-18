@@ -1,17 +1,48 @@
-/schematics/
-/backup/
-/crash-reports/
-/downloads/
-/fancymenu_data/
-/journeymap/
-/local/
-/logs/
-/resourcepacks/
-/saves/
-/schematics/
-/shaderpacks/
-/xaero/
-/xaero/world-map
+--- Logs & crashes ---
+logs/
+crash-reports/
+*.log
+
+--- Runtime / temp ---
+run/
+runtime/
+temp/
+tmp/
+cache/
+downloads/
+
+--- Worlds / saves ---
+saves/
+world/
+worlds/
+*.mca
+
+--- Backups ---
+backup/
+backups/
+
+--- Schematics (usually user-generated) ---
+schematics/
+
+Minimap / Waypoints (Xaero's, JourneyMap, etc.)
+xaero/
+journeymap/
+waypoints/
+minimap/
+
+--- User / client data ---
 usercache.json
 usernamecache.json
-WaypointData.dat
+uuidcache.json
+local/
+resourcepacks/
+schematics/
+shaderpacks/
+
+--- FancyMenu user data ---
+fancymenu_data/
+
+--- Cache / generated ---
+*.tmp
+*.cache
+*.dat_old
