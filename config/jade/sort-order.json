@@ -1,4 +1,7 @@
 {
+  "immersiveengineering:multiblock_icon": null,
+  "immersiveengineering:multiblock_inventory": null,
+  "immersiveengineering:multiblock_tank": null,
   "jade:block_face": null,
   "jade:block_properties": null,
   "jade:block_states": null,
@@ -58,5 +61,6 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "oritech:machine_core_controller": null
 }
